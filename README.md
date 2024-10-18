@@ -19,7 +19,7 @@ Crie uma classe genérica que represente um herói de uma aventura e que possua 
 - Idade
 - Tipo (ex: guerreiro, mago, monge, ninja)
 
-Além disso, deve ter um método chamado atacar que deve atender os seguientes requisitos:
+Além disso, deve ter um método chamado atacar que deve atender os seguintes requisitos:
 - Rxibir a mensagem: "o {tipo} atacou usando {ataque}"
 - Aonde o {tipo} deve ser concatenando o tipo que está na propriedade da classe
 
